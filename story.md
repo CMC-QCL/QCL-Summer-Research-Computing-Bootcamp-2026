@@ -21,7 +21,7 @@
 "No one else knows that you're the reason for all of this. I can't keep your secret any longer"
 
 ## Internal Thoughts or emotions
-
+Moonwhisper is extremely hundry and tired. They are hoping the author writes in a time for lunch soon.
 
 ## Plot twist
 
@@ -30,5 +30,4 @@
 
 
 ## Resolution or Cliffhanger
-
 
