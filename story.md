@@ -28,7 +28,7 @@ Moonwhisper is extremely hundry and tired. They are hoping the author writes in 
 Moonwhisper has secretly been controlled by evil robots this whole time, and his fingers turn into knives like edward scissorhands. This is because of the evil robots.
 
 ## Technology or invention
-
+Moonwhisper builds a teleportation machine inside the mystical forest. 
 
 ## Resolution or Cliffhanger
 
