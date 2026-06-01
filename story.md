@@ -24,7 +24,7 @@ It was a sunny day and all of a sudden a hurricane struck out of thin air. In th
 Moonwhisper is extremely hundry and tired. They are hoping the author writes in a time for lunch soon.
 
 ## Plot twist
-
+Moonwhisper has secretly been controlled by evil robots this whole time, and his fingers turn into knives like edward scissorhands. This is because of the evil robots.
 
 ## Technology or invention
 
