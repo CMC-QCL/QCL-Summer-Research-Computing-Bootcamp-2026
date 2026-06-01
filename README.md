@@ -25,6 +25,8 @@ cd GIT-workshop-Jun-1-26
 git remote add upstream https://github.com/CMC-QCL/GIT-workshop-Jun-1-26.git
 ```
 
+Replace `<your-user>` with your actual GitHub username.
+
 #### Option B: Clone directly (if you have access)
 
 ```bash
