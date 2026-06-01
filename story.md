@@ -32,4 +32,5 @@ Moonwhisper has secretly been controlled by evil robots this whole time, and his
 Moonwhisper builds a teleportation machine inside the mystical forest. 
 
 ## Resolution or Cliffhanger
+After 37 days, Moonwhisper finally returns home and reunites with family. Then, the sun exploded.(resolution2)
 
