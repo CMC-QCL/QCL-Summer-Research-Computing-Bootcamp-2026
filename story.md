@@ -7,7 +7,8 @@
 
 
 ## Main Character Introduction
-
+   Moonwhisper is an undercover superhero who has been fighting villains in his small town. 
+   He lives alone and doesn't have many friends. 
 
 ## Supernatural or Sci-Twist
 
