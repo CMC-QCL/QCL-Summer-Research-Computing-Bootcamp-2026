@@ -28,5 +28,6 @@
 
 
 ## Resolution or Cliffhanger
+After 37 days, Moonwhisper finally returns home and reunites with family. Then, the sun exploded.(resolution2)
 
 
