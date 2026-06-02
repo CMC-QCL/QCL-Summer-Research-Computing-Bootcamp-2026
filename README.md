@@ -29,10 +29,10 @@ No prior experience is required. Sessions are modular, so you can take what fits
 ### Date: June 1 — June 5
 ### Time: 9 am to 12 pm
 ## Registration
-GitHub Monday: https://campusevents.cmc.edu/event/SM26_GIT_bootcamp_0501
-Python Tuesday: https://campusevents.cmc.edu/event/SM26_python_bootcamp_0502
-R Wednesday: https://campusevents.cmc.edu/event/SM26_R_bootcamp_0503
-GIS Thursday: https://campusevents.cmc.edu/event/SM26-ArcGIS-bootcamp-0504
-HPC for Research Friday: https://campusevents.cmc.edu/event/SM26-HPC-bootcamp-0505
+- GitHub Monday: https://campusevents.cmc.edu/event/SM26_GIT_bootcamp_0501
+- Python Tuesday: https://campusevents.cmc.edu/event/SM26_python_bootcamp_0502
+- R Wednesday: https://campusevents.cmc.edu/event/SM26_R_bootcamp_0503
+- GIS Thursday: https://campusevents.cmc.edu/event/SM26-ArcGIS-bootcamp-0504
+- HPC for Research Friday: https://campusevents.cmc.edu/event/SM26-HPC-bootcamp-0505
 
 Looking forward to a great summer of research
