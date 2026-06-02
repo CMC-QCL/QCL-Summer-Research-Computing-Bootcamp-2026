@@ -1,0 +1,41 @@
+# Running a python environment on Laguna using Conda
+
+## LogIn to CARC OnDemand
+
+1. Go to laguna-ood.carc.usc.edu in your browser
+2. Log in with your CGU credentials
+3. From the top menu, click Interactive Apps → JupyterLab
+
+## Configure the Session — Critical Settings
+
+JupyterLab version
+Partition
+Number of CPUs
+GPU model
+Number of GPUs
+Wall time
+
+Click launch, the sessions is queued
+
+## Setup a Conda environment
+
+On the Jupyter Lab session, load a terminal
+
+type the commands
+
+```
+$ module load conda
+$ conda create -n qcl_bootcamp python=3.12 -y # You can use mamba instead
+$ conda activate qcl_bootcamp
+```
+
+Install libraries
+
+
+```
+$ pip install numpy pandas matplotlib ipykernel
+$ python -m ipykernel install --user --name qcl_bootcamp --display-name "QCL Bootcamp Env"
+```
+
+## Select the kernel in your notebook
+At the top-right corner of the notebook select your kernel
