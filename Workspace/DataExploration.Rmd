@@ -1,0 +1,137 @@
+---
+title: "Data Exploration"
+author: 
+output: pdf_document
+date: "2024-03-20"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+
+```
+
+
+# Introduction to Our Data
+We will be exploring the "flights" data set that recorded all flights that departed New York City in 2013.
+
+```{r}
+
+```
+
+Remember tha, for a data frame, the rows are called observations and the columns are called variables.
+
+\newpage
+
+
+
+
+
+# Selecting Variables
+
+Suppose all we care about are the year, month, and date of the flights. Let's select just those variables.
+
+```{r}
+
+```
+
+
+
+
+
+## Deleting Variables
+
+Wait, the flights data set is only flights taken in 2013, so the "year" variable is useless. Let's just delete it, but keep all of the other variables.
+
+```{r}
+
+```
+
+\newpage
+
+
+
+
+
+# Grammar of Graphics
+
+Before we visualize our data, let's understand the Grammar of Graphics by plotting simple dots and a vertical line.
+
+```{r}
+
+```
+
+\newpage
+
+
+
+
+
+# Scatter Plots of Data
+
+Now we can visualize something involving our flights data set. Let's see what the relationship is between the distance a plane travels and the time it spends in the air.
+
+```{r}
+
+```
+
+\newpage
+
+
+
+
+
+# Filter out the Data
+
+Now we'd like to investigate the relationship between the scheduled departure time and the actual departure time. However, suppose we don't want to show all the data. For example, let's only look at JFK flights in the morning (so before noon) or evening (so after and including 6pm), but not on Christmas Day. We need to filter our data to only leave the rows that meet these conditions.
+
+```{r}
+
+
+```
+
+
+\newpage
+
+
+
+
+
+# Bar Plots of Data
+
+Now let's take a bar plot to count the number of flights operated by each carrier and what proportion they take in each New York airport so we can compare them side by side.
+
+```{r}
+
+```
+
+
+\newpage
+
+
+
+
+
+# Mutating Your Own Variables
+
+Suppose we're interested in the distribution of plane speeds. But speed isn't one of the variables we were given! We'll have to create a new variable with the appropriate calculation.
+
+```{r}
+
+```
+
+
+\newpage
+
+
+
+
+
+# Using the Pipe
+
+Let's look at each airport and see how many planes were either "fast" or "slow." We would need to calculate the amount of time each flight gained by considering the departure delay and the arrival delay. If the gain was positive, then the plane had to fly fast to make up for the departure delay. But if the gain is negative, then the plane flew slowly. We'll focus specifically on flights during the summer break, which typically lasts between May 10 to August 20.
+
+```{r}
+
+```
+
