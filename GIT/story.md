@@ -14,6 +14,7 @@
 It was a sunny day and all of a sudden a hurricane struck out of thin air. In the hurricane appeared a superhero named hurricane man!
 
 ## Conflict or Challenge
+One night after a late night shift, Moonwhisper walks down an empty, dimly lit street. Around the corner, Moonwhisper sees a shadow of a man walking towards himself. Moonwhisper thinks immediately, do I keep walking straight? Do I turn right to the next alley? Then suddenly, the shadow starts dashing towards Moonwhisper and he feels a heavy hit on his head. The next thing he knows, he wakes up to bright sun rays in the middle of the city street with footsteps around his ears...
 
 
 ## Dialogue
@@ -31,4 +32,5 @@ Moonwhisper has secretly been controlled by evil robots this whole time, and his
 Moonwhisper builds a teleportation machine inside the mystical forest. 
 
 ## Resolution or Cliffhanger
+After 37 days, Moonwhisper finally returns home and reunites with family. Then, the sun exploded.(resolution2)
 
