@@ -25,7 +25,7 @@ type the commands
 
 ```
 $ module load conda
-$ conda create -n qcl_bootcamp python=3.12 -y
+$ conda create -n qcl_bootcamp python=3.12 -y # You can use mamba instead
 $ conda activate qcl_bootcamp
 ```
 
